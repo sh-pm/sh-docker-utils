@@ -1,6 +1,6 @@
 GROUP_ID=bash
 ARTIFACT_ID=sh-docker-utils
-VERSION=v1.3.1
+VERSION=v1.3.2
 
 declare -A REPOSITORY=( \
 	[host]="shpmcenter.com" \
@@ -11,7 +11,7 @@ declare -A DEPENDENCIES=( \
     [sh-pm]=v3.3.0
     [sh-logger]=v1.4.0 \
     [sh-unit]=v1.5.4 \
-	[sh-commons]=v2.2.1 \
+	[sh-commons]=v2.2.2 \
 );
 
 SSO_API_AUTHENTICATION_URL=https://shpmcenter.com/sso/rest/api/sso/authentication
