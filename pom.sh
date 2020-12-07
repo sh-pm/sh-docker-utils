@@ -1,6 +1,6 @@
 GROUP_ID=bash
 ARTIFACT_ID=sh-docker-utils
-VERSION=v1.3.2
+VERSION=v1.4.0
 
 declare -A REPOSITORY=( \
 	[host]="shpmcenter.com" \
